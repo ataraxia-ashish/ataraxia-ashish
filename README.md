@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashish+Makwana;I+build+AI+tools+that+solve+real+problems.)](https://git.io/typing-svg)
@@ -13,7 +12,7 @@
 
 ## About Me
 
-I'm a BCA student at Sardar Patel University who ships AI-powered tools — not just studies them.  
+I'm a BCA student at Sardar Patel University who ships AI-powered tools — not just studies them.
 While managing a job and semester exams, I built and documented production-ready ML models from scratch, iterated through failures, and delivered working results.
 
 I work across **AI/ML**, **Web Development**, and **Data Analysis** — with a focus on building things that are actually usable, not just impressive on paper.
@@ -29,22 +28,22 @@ I work across **AI/ML**, **Web Development**, and **Data Analysis** — with a f
 <td align="center" width="33%">
 
 ### 🤖 AI & Machine Learning
-Trained deep learning models on real-world datasets.  
+Trained deep learning models on real-world datasets.
 Built a detector that hits **83.57% accuracy on 3,000 unseen images.**
 
 </td>
 <td align="center" width="33%">
 
 ### 🌐 Web Development
-Functional, clean web-based tools built with JavaScript, HTML, and CSS.  
+Functional, clean web-based tools built with JavaScript, HTML, and CSS.
 Focus on usability — not just aesthetics.
 
 </td>
 <td align="center" width="33%">
 
 ### 📊 Data Analysis
-Turning raw data into decisions.  
-Not just charts — business questions with actionable answers.  
+Turning raw data into decisions.
+Not just charts — business questions with actionable answers.
 *(Coming Soon)*
 
 </td>
@@ -175,4 +174,3 @@ I typically respond within **24 hours.**
 *"Every failed attempt was data. The working model exists because of those failures — not despite them."*
 
 </div>
-```
