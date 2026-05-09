@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashish+Makwana;I+build+AI+tools+that+solve+real+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Makwana;I+build+AI+tools+that+solve+real+problems.)](https://git.io/typing-svg)
 
-**IT Student · Building AI/ML Products · Chess Player · Flutist**
+**AI/ML Developer · IT Student (2027) · Shipping Real Products**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ataraxia-ashish&color=3b82f6&style=flat&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=ataraxia-ashish&color=3b82f6&style=flat&label=Profile+Views)](https://github.com/ataraxia-ashish)
 
 </div>
 
@@ -23,32 +23,17 @@ I work across **AI/ML**, **Web Development**, and **Data Analysis** — with a f
 
 ## What I Build
 
-<table>
-<tr>
-<td align="center" width="33%">
+- 🤖 **AI & Machine Learning**
+  Trained deep learning models on real-world datasets.
+  Built a detector that hits **83.57% accuracy on 3,000 unseen images.**
 
-### 🤖 AI & Machine Learning
-Trained deep learning models on real-world datasets.
-Built a detector that hits **83.57% accuracy on 3,000 unseen images.**
+- 🌐 **Web Development**
+  Functional, clean web-based tools built with JavaScript, HTML, and CSS.
+  Focus on usability — not just aesthetics.
 
-</td>
-<td align="center" width="33%">
-
-### 🌐 Web Development
-Functional, clean web-based tools built with JavaScript, HTML, and CSS.
-Focus on usability — not just aesthetics.
-
-</td>
-<td align="center" width="33%">
-
-### 📊 Data Analysis
-Turning raw data into decisions.
-Not just charts — business questions with actionable answers.
-*(Coming Soon)*
-
-</td>
-</tr>
-</table>
+- 📊 **Data Analysis**
+  Turning raw data into decisions.
+  Not just charts — business questions with actionable answers. *(Coming Soon)*
 
 ---
 
@@ -87,8 +72,7 @@ In a world where AI-generated images are indistinguishable from real ones — ev
 - **Confidence:** Flagged an advanced AI image at **99.86% confidence as FAKE**
 - **Tech:** Python · TensorFlow · EfficientNetB3 · Transfer Learning · MS COCO Dataset
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Real-VS-Ai-Image-Detector)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Real-VS-Ai-Image-Detector)
 
 ---
 
@@ -98,9 +82,9 @@ In a world where AI-generated images are indistinguishable from real ones — ev
 A conversational AI tool that helps users understand symptoms, get preliminary health guidance, and know when to seek professional care.
 
 - **What it does:** AI-powered health query assistant for preliminary guidance
-- **Tech:** JavaScript · HTML · CSS · AI Integration
+- **Tech:** JavaScript · HTML · CSS · Gemini API
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Health-AI-Assistant)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Health-AI-Assistant)
 
 ---
 
@@ -112,7 +96,7 @@ A tool that analyzes URLs and flags malicious or suspicious links before a user 
 - **What it does:** Classifies URLs as safe or malicious in real time
 - **Tech:** HTML · JavaScript · ML-based classification
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Malicious-Url-Detector)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ataraxia-ashish/Malicious-Url-Detector)
 
 ---
 
@@ -129,7 +113,7 @@ An end-to-end data analysis product — starting from a real business question, 
 ## Currently Building
 
 | Project | Status |
-|---|---|
+| --- | --- |
 | 📊 Data Analysis Product | 🔄 In Progress |
 | 🌐 Personal Portfolio Website | 🔄 In Progress |
 | 🚀 Live API for Real-VS-AI Detector | 🔄 In Progress |
@@ -138,7 +122,7 @@ An end-to-end data analysis product — starting from a real business question, 
 
 ## Open To
 
-- 🤝 Freelance ML & AI Projects
+- 🤖 Freelance ML & AI Projects — especially **computer vision** and **AI-powered web tools**
 - 📊 Data Analysis & Visualization Tasks
 - 🌐 Web Development Collaborations
 - 🔬 Open Source Contributions
@@ -147,15 +131,11 @@ An end-to-end data analysis product — starting from a real business question, 
 
 ## GitHub Stats
 
-<div align="center">
+[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataraxia-ashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/ataraxia-ashish)
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataraxia-ashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ataraxia-ashish&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://github.com/ataraxia-ashish)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ataraxia-ashish&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ataraxia-ashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)
-
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ataraxia-ashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)](https://github.com/ataraxia-ashish)
 
 ---
 
@@ -165,12 +145,7 @@ I typically respond within **24 hours.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-makwana-a6255a39b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ataraxia_ashish/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ---
 
-<div align="center">
-
 *"Every failed attempt was data. The working model exists because of those failures — not despite them."*
-
-</div>
