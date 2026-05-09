@@ -129,16 +129,6 @@ An end-to-end data analysis product — starting from a real business question, 
 
 ---
 
-## GitHub Stats
-
-[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ataraxia-ashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/ataraxia-ashish)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ataraxia-ashish&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://github.com/ataraxia-ashish)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ataraxia-ashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)](https://github.com/ataraxia-ashish)
-
----
-
 ## Connect With Me
 
 I typically respond within **24 hours.**
