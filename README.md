@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a BCA student at Sardar Patel University who ships AI-powered tools — not just studies them.
+I'm an IT student at Sardar Patel University who ships AI-powered tools — not just studies them.
 I built and documented production-ready ML models from scratch, iterated through failures, and delivered working results.
 
 I work across **AI/ML**, **Web Development**, and **Data Analysis** — with a focus on building things that are actually usable, not just impressive on paper.
@@ -120,7 +120,7 @@ An end-to-end data analysis product — starting from a real business question, 
 
 ---
 
-## Open To
+## Currently Interested In
 
 - 🤖 Freelance ML & AI Projects — especially **computer vision** and **AI-powered web tools**
 - 📊 Data Analysis & Visualization Tasks
