@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Makwana;I+build+AI+tools+that+solve+real+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Makwana;I+build+the+Projects+that+solve+real+problems.)](https://git.io/typing-svg)
 
 **AI/ML Developer · IT Student (2027) · Shipping Real Products**
 
@@ -17,7 +17,6 @@ I built and documented production-ready ML models from scratch, iterated through
 
 I work across **AI/ML**, **Web Development**, and **Data Analysis** — with a focus on building things that are actually usable, not just impressive on paper.
 
-> ♟️ Chess taught me to think three moves ahead. 🎵 Flute taught me patience. Both show up in how I build.
 
 ---
 
